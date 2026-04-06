@@ -27,4 +27,5 @@ The login for the admin panel(Admin Name: hoteladmin, Password: 12345)
 <br/>
 This also can be found in the admin_cred table in the myhotelbooking database on phpMyAdmin
 <br/>
+<br/>
 Ensure that there are no other "myhotelbooking" databases in phpMyAdmin and a "myhotelbooking" folder in htdocs folder, except for this one.
