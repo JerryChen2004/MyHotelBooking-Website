@@ -5,6 +5,7 @@ Developed with PHP, HTML/CSS and MySQL
 <hr/>
 <br/>
 Download the files First
+<br>
 <br/>
 Make sure to have install XAMPP 
 <br/>
